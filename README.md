@@ -43,7 +43,7 @@ You can get a list of the most used iOS SDKs on [AppSight](https://www.appsight.
 | [Scanbot SDK for iOS](https://scanbot.io/sdk)| ✅ | ✅ | ✅ | ⚠️ |
 | [Video Editor SDK iOS](https://www.banuba.com/video-editor-sdk-best-for-developers/)                 | ✅ | ✅ | ✅ | ⚠️ |
 | [Face AR SDK](https://www.banuba.com/augmented-reality-sdk)| ✅ | ✅ | ✅ | ⚠️ |
-
+| [Docutain SDK](https://sdk.docutain.com)| ✅ | ✅ | ✅ | ⚠️ |
 
 #### Has official CocoaPod
 
